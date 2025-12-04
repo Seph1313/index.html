@@ -1,0 +1,10 @@
+ #include  <stdio.h>
+
+ int Main () {
+
+printf ("hola /n");
+
+
+return 0;
+ }
+
